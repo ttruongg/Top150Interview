@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class Main {
 
 
+    //Solution 1
     public static void reverse(int[] nums, int start, int end){
         while(start < end){
             int tmp = nums[start];
@@ -21,10 +22,31 @@ public class Main {
 
     }
 
+    //Solution 2
+    public static void rotate2(int[] nums, int k){
+        int n = nums.length;
+        int[] result = new int[n];
+        k = k % n;
+        if (k > n){
+            return;
+        }
+        for (int i = n - k; i < n; i++){
+            result[i-n+k] = nums[i];
+        }
+
+        for (int j = 0; j < n - k; j++){
+            result[j+k] = nums[j];
+        }
+
+        for (int i=0; i < n; i++){
+            nums[i] = result[i];
+        }
+    }
 
     public static void main(String[] args) {
-        int[] nums = {1,2,3,4,5,6,7};
-        rotate(nums, 3);
+        int[] nums = {1,2};
+        //rotate(nums, 3);
+        rotate2(nums,3);
         System.out.println(Arrays.toString(nums));
 
     }
