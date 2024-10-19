@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44a38c2-83fe-4a07-901e-c52445ac1ff2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../55. JumpGameII/JumpGameII/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../55. JumpGameII/JumpGameII/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../55. JumpGameII/JumpGameII/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../55. JumpGameII/JumpGameII/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../55. JumpGameII/JumpGameII/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="6524f5cf-8f7a-436d-b0ea-40ad2b374e60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../JumpGameII/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +13,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2nIXIo3HWY0YqWxlRVkoOdcd3u8" />
+  <component name="ProjectId" id="2nfCP427oibd0DUiYOq2jbRbPxM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,18 +25,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Data Structure And Algorithm/algorithm_java/45. JumpGameII"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f44a38c2-83fe-4a07-901e-c52445ac1ff2" name="Changes" comment="" />
-      <created>1728661486912</created>
+      <changelist id="6524f5cf-8f7a-436d-b0ea-40ad2b374e60" name="Changes" comment="" />
+      <created>1729354719690</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728661486912</updated>
+      <updated>1729354719690</updated>
     </task>
     <servers />
   </component>
