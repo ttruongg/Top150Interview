@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6524f5cf-8f7a-436d-b0ea-40ad2b374e60" name="Changes" comment="" />
+    <list default="true" id="820ee721-5a67-4eef-806f-f53a3bab3090" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2nfCP427oibd0DUiYOq2jbRbPxM" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2qO1YRHlZdQm2ztBjGJ7NvY95Qz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,26 +19,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Data Structure And Algorithm/algorithm_java/274. H-Index"
+    "last_opened_file_path": "D:/Data Structure And Algorithm/algorithm_java/80. Remove Duplicates from Sorted Array II"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6524f5cf-8f7a-436d-b0ea-40ad2b374e60" name="Changes" comment="" />
-      <created>1729354719690</created>
+      <changelist id="820ee721-5a67-4eef-806f-f53a3bab3090" name="Changes" comment="" />
+      <created>1734518854408</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729354719690</updated>
+      <updated>1734518854408</updated>
     </task>
     <servers />
   </component>
